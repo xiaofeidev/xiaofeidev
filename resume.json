@@ -144,17 +144,6 @@
       }
     ],
     "workList": [
-    //   { "name": "RoundWidget", "description": "Android 开源 UI 组件库" },
-    //   { "name": "ShadowView", "description": "Android 开源阴影视图库" },
-    //   { "name": "LiteImageView", "description": "Android 开源轻量级图片加载库" },
-    //   { "name": "NewGank", "description": "Android 开源 Gank.io 客户端" },
-    //   { "name": "Vibrator (App)", "description": "独立开发的 Android 应用，已开源并上架酷安" },
-    //   { "name": "随手一记 (App)", "description": "独立开发的 Android 应用，已开源并上架酷安" },
-    //   { "name": "Gank (App)", "description": "独立开发的 Android 应用，已开源并上架酷安" },
-    //   { "name": "Radix (App)", "description": "独立开发的 Android 应用，已开源并上架 Google Play" },
-    //   { "name": "复制拼接 (App)", "description": "独立开发的 Android 应用，已开源并上架酷安" },
-    //   { "name": "锁定手机 (App)", "description": "独立开发的 Android 应用，已开源并上架酷安" },
-    //   { "name": "九宫格 (App)", "description": "独立开发的 Android 应用，已开源并上架酷安" }
     ],
     "aboutme": {
       "aboutme_desc": "经验丰富的 Android 开发者，拥有近四年商业级客户端研发及半年独立项目开发经验，具备扎实的工程实践能力和快速学习适应能力。\n精通 Java、Kotlin，熟练运用 Python、C/C++，深入理解 Android View 体系及 Jetpack Compose 声明式UI框架。\n对技术创新与开源社区抱有浓厚兴趣，个人 GitHub 拥有多个开源项目并积极贡献。\n现为计算机技术专业硕士研究生（预计2026年毕业），主攻基于深度学习的时序数据预测方向，期待暑期实习机会，为团队贡献力量。"
