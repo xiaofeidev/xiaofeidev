@@ -1,0 +1,166 @@
+{
+    "titleNameMap": {
+      "educationList": "教育背景",
+      "jobintention": "求职意向",
+      "workExpList": "工作经历",
+      "projectList": "项目经验",
+      "skillList": "个人技能",
+      "awardList": "更多信息",
+      "workList": "个人作品",
+      "aboutme": "个人评价"
+    },
+    "avatar": {
+      "src": "",
+      "hidden": false
+    },
+    "profile": {
+      "name": "王少飞",
+      "email": "xiaofei.dev@foxmail.com",
+      "mobile": "15853186920",
+      "github": "https://github.com/xiaofeidev",
+      "workExpYear": "近四年"
+    },
+    "educationList": [
+      {
+        "edu_time": [
+          "2023.09",
+          "2026.06"
+        ],
+        "school": "华北理工大学",
+        "major": "计算机技术",
+        "academic_degree": "硕士"
+      },
+      {
+        "edu_time": [
+          "2013.09",
+          "2017.06"
+        ],
+        "school": "山东大学",
+        "major": "计算机信息管理",
+        "academic_degree": "本科"
+      }
+    ],
+    "jobintention": {
+      "job_name": "Android开发(暑期实习)",
+      "job_desc": "期望在北京从事 Android 开发暑期实习。拥有近四年 Android 客户端及独立开发经验，工程实践能力强，可快速融入团队并贡献价值。熟练掌握 Java、Kotlin、Python、C/C++ 等编程语言，深入理解 Android View 框架及 Jetpack Compose。对技术与开源抱有热忱。现为计算机技术专业硕士研究生（预计2026年毕业），研究方向为基于深度学习的时序数据预测。"
+    },
+    "awardList": [],
+    "workExpList": [
+      {
+        "company_name": "北京斑马天下教育科技有限公司",
+        "department_name": "",
+        "work_time": [
+          "2020.09",
+          "2021.03"
+        ],
+        "work_desc": "主要负责AI课项目\"优优小班课\"Android端的日常维护、新功能研发与代码重构。主导开发了课堂语音开口识别及视频帧图像特征识别等智能功能，采用C/C++进行NDK开发以实现高性能与跨平台兼容性，并通过JNI提供Java接口供客户端调用。重构后的项目采用组件化开发模式与MVVM分层架构，主要使用Java（辅以Kotlin）编码，网络层采用Retrofit + RxJava + Gson组合。核心功能包括基于RecyclerView的课程列表与详情页、音视频播放与本地分析模块，以及复杂的AI课堂互动逻辑。同时参与了\"袋鼠小班\"直播课项目的开发。"
+      },
+      {
+        "company_name": "赤子城科技(港股)",
+        "department_name": "",
+        "work_time": [
+          "2019.05",
+          "2020.07"
+        ],
+        "work_desc": "主要负责安全与清理类工具App（如病毒查杀、垃圾清理、应用锁）的开发，以及部分棋牌类游戏项目。\n主导开发了X Security (Google Play)安全清理项目，该项目主要采用Kotlin（辅以Java）开发。项目实践组件化开发模式，将模块划分为通用型、弱业务型与强业务型，并通过配置实现模块在library与application角色间的灵活切换，组件间通信采用ARouter框架。项目架构采用MVVM，集成Jetpack组件，网络层使用Retrofit与RxJava。应用主页采用底部Tab与ViewPager结合Fragment的常见布局。X Security上线后运营表现良好。\n独立负责X AppLock（应用锁）、Queen Solitaire（扑克牌游戏，核心逻辑）等项目的开发。参与开发\"趣行走\"及另一款棋牌游戏项目。"
+      },
+      {
+        "company_name": "济南海拉信息科技有限公司",
+        "department_name": "",
+        "work_time": [
+          "2017.05",
+          "2019.02"
+        ],
+        "work_desc": "公司主要从事在线教育项目开发。主导开发了\"魔力土豆\"少儿英语在线教育App，该项目以Kotlin为主，Java为辅。采用模块化开发模式，将模块按业务逻辑属性划分为通用型（common）与业务型（business）。架构采用MVP模式，通过接口定义View与Presenter的交互规范，实现低耦合设计。核心功能包括基于RecyclerView的课程展示、视频流媒体播放、即时通讯（班级群聊）及ViewPager实现的绘本阅读等。技术栈包括Retrofit + RxJava + Gson进行网络请求，Dagger2进行依赖注入，EventBus作为事件总线，Glide进行图片加载。\n独立负责\"魔幻盒子\"（图像处理）、\"记忆超人\"（在线教育）等项目的Android端开发。参与开发\"幽默兔\"、\"珠宝眼\"、\"微辣妈\"等项目。"
+      }
+    ],
+    "skillList": [
+      {
+        "name": "Java",
+        "description": "熟练掌握，多年 Android 开发经验"
+      },
+      {
+        "name": "Kotlin",
+        "description": "熟练掌握，主导多个 Kotlin 项目开发"
+      },
+      {
+        "name": "Python",
+        "description": "熟练掌握，用于深度学习模型训练"
+      },
+      {
+        "name": "C/C++",
+        "description": "掌握，用于 NDK 开发"
+      },
+      {
+        "name": "Android SDK",
+        "description": "深入理解 Android View 框架及 Jetpack Compose"
+      },
+      {
+        "name": "Android Jetpack",
+        "description": "熟练使用 MVVM, LiveData, ViewModel 等组件"
+      },
+      {
+        "name": "NDK",
+        "description": "具备 NDK 开发经验，实现高性能模块"
+      },
+      {
+        "name": "设计模式与架构",
+        "description": "熟悉 MVVM, MVP, 组件化/模块化开发模式"
+      },
+      {
+        "name": "后端开发",
+        "description": "Flask 框架开发经验"
+      },
+      {
+        "name": "前端开发",
+        "description": "umijs 框架开发经验"
+      },
+      {
+        "name": "深度学习",
+        "description": "研究方向为基于深度学习的时序数据预测"
+      }
+    ],
+    "projectList": [
+      {
+        "project_name": "大学期间独立 App 开发",
+        "project_role": "独立开发者",
+        "project_time": "2016.11 - 2017.04",
+        "project_desc": "大学期间，独立完成七款 Android App 的全周期开发（从构思、编码到上架主流应用市场），所有项目均在GitHub开源。",
+        "project_content": "1. 全程独立负责七款 Android 应用的构思、设计、开发与发布。\n2. 应用类型涵盖工具、资讯等，部分应用已上架Google Play及酷安市场。\n3. 所有项目代码均在 GitHub 开源，展现了对移动开发的早期热情与实践能力。"
+      },
+      {
+        "project_name": "海洋时序数据预测后端及模型训练",
+        "project_role": "软件开发负责人",
+        "project_time": "2023.09 - 至今",
+        "project_desc": "参与河北省海洋地质资源调查中心横向课题，独立负责海洋时序数据预测系统的后端数据库构建（含数据访问接口设计）及深度学习预测模型的训练工作。",
+        "project_content": "1. 独立完成后端数据库架构设计、搭建及API接口开发。\n2. 成功训练并部署时序数据深度学习预测模型。"
+      },
+      {
+        "project_name": "研究生论文管理系统",
+        "project_role": "全栈开发者",
+        "project_time": "2023.09 - 至今",
+        "project_desc": "独立为所在院系开发研究生论文管理系统，负责整体架构设计以及完整的前后端（Flask + umijs）开发与实现。",
+        "project_content": "1. 作为唯一开发者，主导系统需求分析、架构设计、前后端编码及测试部署全流程。\n2. 技术栈：后端采用 Flask 框架，前端采用 umijs 框架。"
+      }
+    ],
+    "workList": [
+      { "name": "RoundWidget", "description": "Android 开源 UI 组件库" },
+      { "name": "ShadowView", "description": "Android 开源阴影视图库" },
+      { "name": "LiteImageView", "description": "Android 开源轻量级图片加载库" },
+      { "name": "NewGank", "description": "Android 开源 Gank.io 客户端" },
+      { "name": "Vibrator (App)", "description": "独立开发的 Android 应用，已开源并上架酷安" },
+      { "name": "随手一记 (App)", "description": "独立开发的 Android 应用，已开源并上架酷安" },
+      { "name": "Gank (App)", "description": "独立开发的 Android 应用，已开源并上架酷安" },
+      { "name": "Radix (App)", "description": "独立开发的 Android 应用，已开源并上架 Google Play" },
+      { "name": "复制拼接 (App)", "description": "独立开发的 Android 应用，已开源并上架酷安" },
+      { "name": "锁定手机 (App)", "description": "独立开发的 Android 应用，已开源并上架酷安" },
+      { "name": "九宫格 (App)", "description": "独立开发的 Android 应用，已开源并上架酷安" }
+    ],
+    "aboutme": {
+      "aboutme_desc": "经验丰富的 Android 开发者，拥有近四年商业级客户端研发及半年独立项目开发经验，具备扎实的工程实践能力和快速学习适应能力。\n精通 Java、Kotlin，熟练运用 Python、C/C++，深入理解 Android View 体系及 Jetpack Compose 声明式UI框架。\n对技术创新与开源社区抱有浓厚兴趣，个人 GitHub 拥有多个开源项目并积极贡献。\n现为计算机技术专业硕士研究生（预计2026年毕业），主攻基于深度学习的时序数据预测方向，期待暑期实习机会，为团队贡献力量。"
+    },
+    "theme": {
+      "color": "#2f5785",
+      "tagColor": "#8bc34a"
+    }
+  }
