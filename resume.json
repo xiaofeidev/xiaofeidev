@@ -10,13 +10,15 @@
       "aboutme": "个人评价"
     },
     "avatar": {
-      "src": "https://github.com/xiaofeidev/xiaofeidev/blob/main/photo/xiaofei.jpg?raw=true",
+      "src": "https://github.com/xiaofeidev/xiaofeidev/blob/main/photo/1111.jpg?raw=true",
       "hidden": false
     },
     "profile": {
       "name": "王少飞",
       "email": "xiaofei.dev@foxmail.com",
       "mobile": "15853186920",
+      "sex": "男",
+      "birthday": "1995-01",
       "github": "https://github.com/xiaofeidev",
       "workExpYear": "近四年"
     },
