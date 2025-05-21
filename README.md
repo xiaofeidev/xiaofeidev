@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## https://visiky.github.io/resume?user=xiaofeidev&branch=main&template=template2
+
 <!--
 **xiaofeidev/xiaofeidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
